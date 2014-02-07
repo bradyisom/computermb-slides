@@ -12,3 +12,9 @@
 	text-transform: uppercase;
 	color: yellow;
 }
+
+.author {
+	position: absolute;
+	bottom: 50px;
+	margin: auto;
+}
